@@ -1,0 +1,17 @@
+baseURL: "https://Yuchen-Fu.github.io/"
+languageCode: "en-us"
+title: "Yuchen Fu Blog"
+theme: ["PaperMod"]
+
+module:
+  imports:
+    - path: github.com/adityatelange/hugo-PaperMod
+
+pagination:
+  pagerSize: 10
+
+params:
+  mainSections: ["posts"]
+  showReadingTime: true
+  math: true
+
