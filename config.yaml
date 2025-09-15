@@ -1,0 +1,12 @@
+baseURL: "https://Yuchen-Fu.github.io/"
+languageCode: "en-us"
+title: "Yuchen Fu"
+theme: "PaperMod"
+
+pagination:
+  pagerSize: 10
+
+params:
+  mainSections: ["posts"]
+  showReadingTime: true
+  math: true
